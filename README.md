@@ -4,15 +4,15 @@ A simple CRUD application with a relational database back‑end that implements 
  APIs
 
 - Projects
-  - POST /projects creates a new Project
-  - GET /projects/:id retrieves one Project
-  - GET /projects retrieves all Projects
-  - PUT /projects updates one Project
-  - DELETE /projects deletes one Project
+  -`POST /projects` creates a new Project
+  - `GET /projects/:id` retrieves one Project
+  - `GET /projects` retrieves all Projects
+  - `PUT /projects` updates one Project
+  - `DELETE /projects` deletes one Project
 
 
 - Backers
-  - PUT /backers/addbalance to add an amount X to the Backer's account balance
+  - `PUT /backers/addbalance` to add an amount X to the Backer's account balance
 
 
 ## Development Setup
